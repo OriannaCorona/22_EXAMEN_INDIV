@@ -7,7 +7,7 @@ header{
 	width: 100%;
 }
 .titulo{
-	margin: 2% 1% 1% 52%;
+	margin: 2% 1% 1% 57%;
 	font-weight: 400;
 	font-family: helvetica;
 }
@@ -49,7 +49,7 @@ section{
 }
 .read{
 	background-color: lightgray;
-	border-radius: 30%;
+	border-radius: 40px 40px;
 	border: none;
 	padding: 2% 4%;
 	width: 40%;
@@ -82,6 +82,11 @@ section{
 	padding: 0% 1%;
 	font-size: 70%;
 	margin: 2% 0% 2% 1%; 
+}
+.imgport{
+	height: 80%;
+	width: 95%;
+	margin: 0% 0% 2% 9%;
 }
 
 
