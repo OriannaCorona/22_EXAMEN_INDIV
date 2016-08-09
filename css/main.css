@@ -1,0 +1,87 @@
+/*header*/
+body{
+	background-color: lightgray;
+}
+header{
+	background-color: black;
+	width: 100%;
+}
+.titulo{
+	margin: 2% 1% 1% 52%;
+	font-weight: 400;
+	font-family: helvetica;
+}
+.menu{
+	margin: 2% 1% 2% 20%;
+	font-family: helvetica;
+}
+.menrojo{
+	display: inline-block;
+	color: indianred;
+	padding: 0% 1%;
+	font-size: 70%;
+}
+.men{
+	display: inline-block;
+	color: white;
+	padding: 0% 1.5%;
+	font-size: 70%;
+}
+/*section*/
+section{
+	background-color: white;
+	width: 80%;
+	margin-left: 10%;
+}
+.imgciu{
+	width: 78%;
+	height: 30%;
+	margin: 5% 0% 5% 5%;
+}
+.subt{
+	font-family: helvetica;	
+	margin: 10% 0% 5% -36%;
+}
+.textsubt{
+	font-size: 80%;
+	margin: 5% 0% 10% -36%;
+	font-family: helvetica;
+}
+.read{
+	background-color: lightgray;
+	border-radius: 30%;
+	border: none;
+	padding: 2% 4%;
+	width: 40%;
+	margin: 4% 0% 20% -38%;
+}
+.lineauno{
+	text-align: center;	
+	margin: 0% 0% 2% 0%;
+	border: dotted 1px lightgray;
+	width: 101.5%;
+}
+.proyects{
+	font-family: helvetica;	
+	margin: 5% 0% 2% 7%;
+	color: gray;
+}
+.menu2{
+	margin: 1% 1% 2% 6%;
+	font-family: helvetica;
+}
+.mengris{
+	display: inline-block;
+	color: darkgray;
+	padding: 0% 1%;
+	font-size: 70%;
+}
+.menblanc{
+	display: inline-block;
+	color: lightgray;
+	padding: 0% 1%;
+	font-size: 70%;
+	margin: 2% 0% 2% 1%; 
+}
+
+
